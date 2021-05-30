@@ -46,7 +46,7 @@ https://cdn.jsdelivr.net/gh/jquery/jquery/
 
 ```
 
-## 具体简单使用如
+## 具体简单使用方法
 
 ```html
 https://cdn.jsdelivr.net/gh/aixiu/cdn-assets/图片地址
@@ -60,7 +60,7 @@ https://cdn.jsdelivr.net/gh/aixiu/cdn-assets/placeholder/d570170f4f12.svg
 
 <details>
 <summary>使用注意事项</summary><br>
-<p>请看下面的使用政策</p>
+<p>使用前请看下面的使用政策</p>
 https://www.jsdelivr.com/terms/acceptable-use-policy-jsdelivr-net
 
 第4条写明禁止的使用行为其中就包括存放视频、文件备份或者其他大量的文件。所以不要试图在jsdelivr存放太大的媒体文件！随时会被阻断连接！
