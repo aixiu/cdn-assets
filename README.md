@@ -49,7 +49,7 @@ https://cdn.jsdelivr.net/gh/jquery/jquery/
 ## 具体简单使用方法
 
 ```html
-https://cdn.jsdelivr.net/gh/aixiu/cdn-assets/图片地址
+https://cdn.jsdelivr.net/gh/aixiu/cdn-assets/placeholder/文件名
 ```
 
 例如：
